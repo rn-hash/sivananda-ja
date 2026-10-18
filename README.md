@@ -5,6 +5,7 @@
 ## 掲載物
 
 - 梵行の実践(Practice of Brahmacharya)日本語版 — [HTML版](./index.html) / [PDF版](./%E6%A2%B5%E8%A1%8C%E3%81%AE%E5%AE%9F%E8%B7%B5_%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%89%88.pdf)
+- シヴァナンダ無料公開書籍 一覧 — [書籍一覧](./books.html) : DLS公式ダウンロードページ収録の全104冊(シヴァナンダ本人約47冊を含む)の書誌と原典(PDF/HTML)への直接リンク
 
 ## 但し書き(重要)
 
