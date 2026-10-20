@@ -5,6 +5,7 @@
 ## 掲載物
 
 - 梵行の実践(Practice of Brahmacharya)日本語版 — [HTML版](./index.html) / [PDF版](./%E6%A2%B5%E8%A1%8C%E3%81%AE%E5%AE%9F%E8%B7%B5_%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%89%88.pdf)
+- 二十の重要な精神的指示(Twenty Important Spiritual Instructions)日本語版 — [HTML版](./20%E3%81%AE%E9%87%8D%E8%A6%81%E3%81%AA%E7%B2%BE%E7%A5%9E%E7%9A%84%E6%8C%87%E7%A4%BA_%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%89%88.html)
 - シヴァナンダ無料公開書籍 一覧 — [書籍一覧](./books.html) : DLS公式ダウンロードページ収録の全104冊(シヴァナンダ本人約47冊を含む)の書誌と原典(PDF/HTML)への直接リンク
 
 ## 但し書き(重要)
