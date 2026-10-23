@@ -1,0 +1,17 @@
+<style>
+:root { --ink:#2b2b2b; --accent:#4a4238; --rule:#b9ad9d; --paper:#faf7f0; --saffron:#c96f2d; }
+* { box-sizing:border-box; }
+body { font-family:"Hiragino Mincho ProN","Yu Mincho","MS Mincho",serif; color:var(--ink); background:var(--paper); margin:0; line-height:1.9; }
+.wrap { max-width:860px; margin:0 auto; padding:48px 24px 96px; }
+h1 { font-size:1.7em; letter-spacing:0.1em; margin:0 0 4px; }
+h1 small { display:block; font-size:0.5em; color:var(--accent); letter-spacing:0.18em; margin-top:8px; font-weight:normal; }
+.meta { color:var(--accent); font-size:0.88em; margin:18px 0 28px; border-top:1px dashed var(--rule); border-bottom:1px dashed var(--rule); padding:12px 4px; }
+h2 { font-size:1.22em; color:var(--accent); border-left:4px solid var(--saffron); padding-left:12px; margin:2.2em 0 0.6em; }
+ul.menu { list-style:none; padding:0; margin:0; }
+li.item { background:#fff; border:1px solid var(--rule); border-radius:6px; padding:16px 20px; margin:0 0 12px; }
+li.item a.t { font-weight:600; font-size:1.05em; color:var(--saffron); text-decoration:none; border-bottom:1px dotted var(--saffron); }
+li.item .d { margin-top:6px; font-size:0.92em; }
+.badge { display:inline-block; font-size:0.72em; background:#5a7d5a; color:#fff; border-radius:3px; padding:1px 7px; margin-left:8px; vertical-align:middle; letter-spacing:0.08em; }
+.foot { margin-top:48px; font-size:0.8em; color:var(--accent); border-top:2px solid var(--rule); padding-top:16px; line-height:1.9; }
+@media print { body { background:#fff; } li.item { page-break-inside:avoid; } }
+</style>
