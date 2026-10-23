@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>朝のシーケンス 修正版</title>
+<style>
+  @media print {
+    body { background: #fff; }
+    .sheet { box-shadow: none; margin: 0; }
+    .card { break-inside: avoid; }
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: #f0ede6;
+    font-family: "Hiragino Mincho ProN", "Yu Mincho", serif;
+    color: #2c2620;
+  }
+  .sheet {
+    max-width: 1280px;
+    margin: 0 auto;
+    background: #fffdf8;
+    padding: 34px 38px 26px;
+  }
+  header { text-align: center; margin-bottom: 10px; }
+  header h1 { font-size: 30px; letter-spacing: 6px; font-weight: 600; }
+  header .sub { font-size: 12.5px; color: #7a6f5d; margin-top: 6px; letter-spacing: 1px; }
+  .motto {
+    text-align: center; font-size: 13px; margin: 12px 0 22px; color: #5a4f3f;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 14px 12px;
+  }
+  .card {
+    background: #fff;
+    border: 1px solid #d8d0be;
+    border-radius: 6px;
+    padding: 8px 8px 7px;
+    display: flex; flex-direction: column;
+  }
+  .card.wide { grid-column: span 2; }
+  .num { font-size: 10.5px; color: #a08c60; letter-spacing: 1px; }
+  .ja { font-size: 16.5px; font-weight: 600; margin: 1px 0 0; letter-spacing: 0.5px; }
+  .sa { font-size: 11px; color: #6b6152; font-style: italic; margin-bottom: 6px; }
+  .imgwrap { flex: 1; display: flex; align-items: center; justify-content: center; }
+  .imgwrap img { width: 100%; height: auto; display: block; }
+  .card.wide .imgwrap img { max-height: 300px; width: auto; max-width: 100%; }
+  .breath { font-size: 13px; font-weight: 600; color: #8a5a2e; margin-top: 6px; }
+  .note { font-size: 10.8px; color: #6b6152; margin-top: 2px; line-height: 1.45; }
+  .note em { font-style: normal; color: #a33c2e; font-weight: 600; }
+  .phase {
+    font-size: 12px; letter-spacing: 3px; color: #8a7a5c;
+    border-bottom: 1px solid #cfc4a8; padding-bottom: 3px; margin: 20px 0 12px;
+  }
+  footer {
+    margin-top: 22px; border-top: 1px solid #d8d0be; padding-top: 12px;
+    font-size: 11.5px; color: #5a4f3f; line-height: 1.9;
+  }
+  footer b { color: #8a5a2e; }
+  .src { font-size: 10px; color: #8a7a5c; margin-top: 8px; }
+</style>
+</head>
+<body>
+<p style="text-align:center;font-size:.9em"><a href="../library.html">訳書ライブラリ（目次）へ戻る</a></p>
+<div class="sheet">
+  <header>
+    <h1>朝のシーケンス・修正版</h1>
+    <div class="sub">シヴァナンダ『ハタ・ヨーガ』の基本課程より ── 全ポーズ鼻呼吸・ keep は呼吸数で数える（1呼吸約6秒）</div>
+  </header>
+  <div class="motto">一オンスの実践は一トンの理論に勝る ── 中断するな。これだけが規律である。</div>
+
+  <!-- 準備 -->
+  <div class="phase">準　備</div>
+  <div class="grid">
+    <div class="card">
+      <div class="num">0</div>
+      <div class="ja">頭立ち（壁利用）</div>
+      <div class="sa">SIRSHASANA</div>
+      <div class="imgwrap"><img src="figures/14_sirshasana_fig.png" alt="頭立ち"></div>
+      <div class="breath">10呼吸</div>
+      <div class="note"><em>壁可</em>・夏は短く。降りたら直立で数秒休む</div>
+    </div>
+  </div>
+
+  <!-- アーサナ -->
+  <div class="phase">アーサナ（各群から選択 ── 後屈を補強した構成）</div>
+  <div class="grid">
+    <div class="card">
+      <div class="num">1</div>
+      <div class="ja">ヨガ・ムドラー</div>
+      <div class="sa">YOGA MUDRA</div>
+      <div class="imgwrap"><img src="figures/55_yoga_mudra_fig.png" alt="ヨガ・ムドラー"></div>
+      <div class="breath">10呼吸</div>
+      <div class="note">蓮華座で後ろ合掌・前に倒れる。腹部の群</div>
+    </div>
+    <div class="card">
+      <div class="num">2</div>
+      <div class="ja">蓮華肩立ち</div>
+      <div class="sa">URDHVA PADMASANA</div>
+      <div class="imgwrap"><img src="figures/17_urdhva_padmasana_fig.png" alt="蓮華肩立ち"></div>
+      <div class="breath">10呼吸</div>
+      <div class="note">逆転の群・甲状腺と頭部の血流</div>
+    </div>
+    <div class="card">
+      <div class="num">3</div>
+      <div class="ja">鋤のポーズ</div>
+      <div class="sa">HALASANA</div>
+      <div class="imgwrap"><img src="figures/20_halasana_fig.png" alt="鋤"></div>
+      <div class="breath">10呼吸</div>
+      <div class="note">前屈の群・背骨と腰の柔軟</div>
+    </div>
+    <div class="card">
+      <div class="num">4</div>
+      <div class="ja">肩立ちのポーズ</div>
+      <div class="sa">SARVANGASANA</div>
+      <div class="imgwrap"><img src="figures/17_sarvangasana_fig.png" alt="肩立ち"></div>
+      <div class="breath">20呼吸〜</div>
+      <div class="note"><em>直後に必ず魚</em>（肩立ち時間の半分）</div>
+    </div>
+    <div class="card">
+      <div class="num">5</div>
+      <div class="ja">魚のポーズ</div>
+      <div class="sa">MATSYASANA</div>
+      <div class="imgwrap"><img src="figures/23_matsyasana_fig.png" alt="魚"></div>
+      <div class="breath">10呼吸</div>
+      <div class="note">後屈の群・肩立ちの締め</div>
+    </div>
+
+    <div class="card wide">
+      <div class="num">6</div>
+      <div class="ja">車輪のポーズ</div>
+      <div class="sa">CHAKRASANA</div>
+      <div class="imgwrap"><img src="figures/28_chakrasana_fig.png" alt="車輪"></div>
+      <div class="breath">5呼吸×2回</div>
+      <div class="note">後屈の群・背骨を弓のように反らす。<em>無理なら橋（セト・バンダ）で代用可</em></div>
+    </div>
+    <div class="card">
+      <div class="num">7</div>
+      <div class="ja">蛇のポーズ</div>
+      <div class="sa">BHUJANGASANA</div>
+      <div class="imgwrap"><img src="figures/24_bhujangasana_fig.png" alt="蛇"></div>
+      <div class="breath">5呼吸×2回</div>
+      <div class="note">後屈の群・胸を開く</div>
+    </div>
+    <div class="card">
+      <div class="num">8</div>
+      <div class="ja">弓のポーズ</div>
+      <div class="sa">DHANURASANA</div>
+      <div class="imgwrap"><img src="figures/26_dhanurasana_fig.png" alt="弓"></div>
+      <div class="breath">5呼吸×2回</div>
+      <div class="note">後屈の群・腹と背中を両方鍛える</div>
+    </div>
+    <div class="card">
+      <div class="num">9</div>
+      <div class="ja">長座の前屈</div>
+      <div class="sa">PASCHIMOTTANASANA</div>
+      <div class="imgwrap"><img src="figures/19_paschimottanasana_fig.png" alt="長座の前屈"></div>
+      <div class="breath">10呼吸</div>
+      <div class="note">前屈の群・後屈の後の中和</div>
+    </div>
+    <div class="card">
+      <div class="num">10</div>
+      <div class="ja">手を足へ</div>
+      <div class="sa">PADAHASTHASANA</div>
+      <div class="imgwrap"><img src="figures/22_padahasthasana_fig.png" alt="手を足へ"></div>
+      <div class="breath">10呼吸</div>
+      <div class="note">前屈の群（立位）</div>
+    </div>
+    <div class="card">
+      <div class="num">11</div>
+      <div class="ja">半魚王のひねり</div>
+      <div class="sa">ARDHA MATSYENDRASANA</div>
+      <div class="imgwrap"><img src="figures/32_ardha_matsyendrasana_fig.png" alt="半魚王"></div>
+      <div class="breath">左右各10呼吸</div>
+      <div class="note">捻りの群・後屈と前屈の間の背骨の正常化</div>
+    </div>
+  </div>
+
+  <!-- 呼吸法 -->
+  <div class="phase">呼吸法（テキストで ── 呼吸数・ポンピング数で数える）</div>
+  <div class="grid">
+    <div class="card">
+      <div class="num">12</div>
+      <div class="ja">カパーラバーティー（ゆっくり）</div>
+      <div class="sa">KAPALABHATI</div>
+      <div class="breath">20ポンピング</div>
+      <div class="note">準備浄化・体質に不要なら飛ばしてよい（原典2.21の定め）</div>
+    </div>
+    <div class="card">
+      <div class="num">13</div>
+      <div class="ja">スクハ・プールヴァカ</div>
+      <div class="sa">SUKHA PURVAK</div>
+      <div class="breath">10回（左右往復で1回）</div>
+      <div class="note">クンバカ中ムーラ＋腹部の締め。右鼻詰み時は<em>無理せず切り上げ</em></div>
+    </div>
+    <div class="card">
+      <div class="num">14</div>
+      <div class="ja">バストリカー</div>
+      <div class="sa">BHASTRIKA</div>
+      <div class="breath">3セット（20ポンピング＋止息）</div>
+      <div class="note">各セット間は自然呼吸で休む。汗は<em>拭かず体にすり込む</em></div>
+    </div>
+    <div class="card wide">
+      <div class="num">15</div>
+      <div class="ja">ウジャイー瞑想</div>
+      <div class="sa">UJJAYI</div>
+      <div class="breath">20分</div>
+      <div class="note">呼吸音と眉間に集中。蓮華または楽な座法で</div>
+    </div>
+  </div>
+
+  <!-- 締め -->
+  <div class="phase">締　め</div>
+  <div class="grid">
+    <div class="card wide">
+      <div class="num">16</div>
+      <div class="ja">屍のポーズ</div>
+      <div class="sa">SAVASANA</div>
+      <div class="imgwrap"><img src="figures/36_savasana_fig.png" alt="屍"></div>
+      <div class="breath">20〜30呼吸</div>
+      <div class="note"><em>全運動の後に必ず</em>・完全弛緩</div>
+    </div>
+    <div class="card">
+      <div class="ja">蓮華座</div>
+      <div class="sa">PADMASANA</div>
+      <div class="imgwrap"><img src="figures/39_padmasana_fig.png" alt="蓮華"></div>
+      <div class="breath">瞑想の座</div>
+      <div class="note">呼吸法・瞑想はこの座で</div>
+    </div>
+  </div>
+
+  <footer>
+    <b>原典の定め</b>：全て鼻呼吸｜体調が悪ければ中止｜実技後30分は入浴禁止｜1日も欠かさない｜逆転系は夏は短く｜汗は拭かず手ですり込む<br>
+    <b>今回の修正</b>：①「頭立ちのブリッジ」を削除　②後屈群（車輪・蛇・弓）を追加──前日に背中の後屈が不足していた反省。<br>
+    <span class="src">ポーズ図＝シヴァナンダ『Hatha Yoga』（ES61版）原典写真・各章PICTURE。2026-10-12作成。</span>
+  </footer>
+</div>
+</body>
+</html>
