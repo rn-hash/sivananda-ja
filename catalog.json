@@ -3,27 +3,81 @@
   {
    "title": "聖典 全訳",
    "items": [
-    {"page": "index.html", "title": "梵行の実践 ― Practice of Brahmacharya（日本語全訳）", "desc": "性的エネルギーの保存と昇華を説く実践書の全文訳。底本=DLS無料頒布版（初版1934年）。"},
-    {"page": "kundalini_yoga.html", "title": "クンダリニー・ヨーガ（日本語全訳）", "desc": "クンダリニーの理論と覚醒の実践を集大成した体系書の全文訳。ムドラーとバンダの章、ケーチャリー・ヴィディヤを含む。"},
-    {"page": "20の重要な精神的指示_日本語版.html", "title": "二十の重要な精神的指示（日本語版）", "desc": "シヴァナンダが実行者に与えた20の実践指示の全訳・注解。日課設計の骨格。"}
+    {
+     "page": "index.html",
+     "title": "梵行の実践 ― Practice of Brahmacharya（日本語全訳）",
+     "desc": "性的エネルギーの保存と昇華を説く実践書の全文訳。底本=DLS無料頒布版（初版1934年）。"
+    },
+    {
+     "page": "kundalini_yoga.html",
+     "title": "クンダリニー・ヨーガ（日本語全訳）",
+     "desc": "クンダリニーの理論と覚醒の実践を集大成した体系書の全文訳。ムドラーとバンダの章、ケーチャリー・ヴィディヤを含む。"
+    },
+    {
+     "page": "20の重要な精神的指示_日本語版.html",
+     "title": "二十の重要な精神的指示（日本語版）",
+     "desc": "シヴァナンダが実行者に与えた20の実践指示の全訳・注解。日課設計の骨格。"
+    }
    ]
   },
   {
    "title": "実践書・手順書",
    "items": [
-    {"page": "pranayama_book/index.html", "title": "DLS プラーナーヤーマ実践書", "desc": "古典8技法＋スクハ・プールヴァカ＋カパーラバーティー＋ケーヴァラ・クンバカ。原典写真6枚付きの実技書。"},
-    {"page": "morning_sequence/index.html", "title": "朝のシーケンス（修正版）", "desc": "朝のアーサナ・呼吸法・瞑想の順序を実演写真付きで示した手順書。"},
-    {"page": "morning_practice/index.html", "title": "朝の修行（A4 one-page）", "desc": "4:40起床のシヴァナンダ式朝ルーチンを1頁にまとめたもの。"},
-    {"page": "evening_practice/index.html", "title": "夜の修行（A4 one-page）", "desc": "トラータカ・聖典朗読・自己分析・感謝の瞑想の夜ルーチンを1頁にまとめたもの。"},
-    {"page": "yoga_asanas.html", "title": "ヨーガ・アーサナ（写真版）", "desc": "『Yoga Asanas』のポーズ写真と指示の日本語版。"},
-    {"page": "shikan.html", "title": "修習止観坐禅法要（小止観・日本語版）", "desc": "天台智顗の坐禅実技書の日本語全訳。ヨーガ側の参照線として併読する。"}
+    {
+     "page": "pranayama_book/index.html",
+     "title": "DLS プラーナーヤーマ実践書",
+     "desc": "古典8技法＋スクハ・プールヴァカ＋カパーラバーティー＋ケーヴァラ・クンバカ。原典写真6枚付きの実技書。"
+    },
+    {
+     "page": "morning_sequence/index.html",
+     "title": "朝のシーケンス（修正版）",
+     "desc": "朝のアーサナ・呼吸法・瞑想の順序を実演写真付きで示した手順書。"
+    },
+    {
+     "page": "morning_practice/index.html",
+     "title": "朝の修行（A4 one-page）",
+     "desc": "4:40起床のシヴァナンダ式朝ルーチンを1頁にまとめたもの。"
+    },
+    {
+     "page": "evening_practice/index.html",
+     "title": "夜の修行（A4 one-page）",
+     "desc": "トラータカ・聖典朗読・自己分析・感謝の瞑想の夜ルーチンを1頁にまとめたもの。"
+    },
+    {
+     "page": "yoga_asanas.html",
+     "title": "ヨーガ・アーサナ（写真版）",
+     "desc": "『Yoga Asanas』のポーズ写真と指示の日本語版。"
+    },
+    {
+     "page": "shikan.html",
+     "title": "修習止観坐禅法要（小止観・日本語版）",
+     "desc": "天台智顗の坐禅実技書の日本語全訳。ヨーガ側の参照線として併読する。"
+    }
    ]
   },
   {
    "title": "一覧（原典への入り口）",
    "items": [
-    {"page": "books.html", "title": "シヴァナンダ無料公開書籍 一覧（全104冊）", "desc": "dlshq.org公式ダウンロードページ全収録。原典PDF/HTMLへの直リンク付き。"},
-    {"page": "discourses.html", "title": "DLS講話 一覧（全299編・日本語概要付き）", "desc": "Discourseアーカイブ全収録。各講話の日本語1文概要と原典直リンク付き。"}
+    {
+     "page": "books.html",
+     "title": "シヴァナンダ無料公開書籍 一覧（全104冊）",
+     "desc": "dlshq.org公式ダウンロードページ全収録。原典PDF/HTMLへの直リンク付き。"
+    },
+    {
+     "page": "discourses.html",
+     "title": "DLS講話 一覧（全299編・日本語概要付き）",
+     "desc": "Discourseアーカイブ全収録。各講話の日本語1文概要と原典直リンク付き。"
+    }
+   ]
+  },
+  {
+   "title": "古典研究",
+   "items": [
+    {
+     "page": "patanjali_ashtanga.html",
+     "title": "パタンジャリのアシュタンガ（ヨーガ・スートラと八支の全体像）",
+     "desc": "いつ・誰が・何を材料に・どう継承されたか。中3で読める総合解説。原典=GRETIL校訂版。"
+    }
    ]
   }
  ]

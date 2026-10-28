@@ -18,6 +18,9 @@
 - ヨーガ・アーサナ（Yoga Asanas 写真版）— [HTML](./yoga_asanas.html)
 - 修習止観坐禅法要（天台智顗・小止観・パブリックドメイン古文書の訳）— [HTML](./shikan.html)
 
+### 古典研究（パブリックドメイン原典の解説）
+- パタンジャリのアシュタンガ（ヨーガ・スートラと八支の全体像）— [HTML](./patanjali_ashtanga.html)
+
 ### 一覧（原典への入り口）
 - シヴァナンダ無料公開書籍 一覧（全104冊・原典直リンク）— [HTML](./books.html)
 - DLS講話 一覧（全299編・日本語概要付き・原典直リンク）— [HTML](./discourses.html)
