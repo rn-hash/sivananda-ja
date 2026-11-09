@@ -10,6 +10,7 @@
 - 梵行の実践（Practice of Brahmacharya）— [HTML](./index.html)
 - クンダリニー・ヨーガ（Kundalini Yoga）— [HTML](./kundalini_yoga.html)
 - 二十の重要な精神的指示（Twenty Important Spiritual Instructions）— [HTML](./20%E3%81%AE%E9%87%8D%E8%A6%81%E3%81%AA%E7%B2%BE%E7%A5%9E%E7%9A%84%E6%8C%87%E7%A4%BA_%E6%97%A5%E6%9C%AC%E8%AA%9E%E7%89%88.html)
+- 神は存在する（God Exists）— [HTML](./god_exists.html)
 
 ### 実践書・手順書（原典ベースの日本語実技書）
 - DLS プラーナーヤーマ実践書 — [HTML](./pranayama_book/index.html)
