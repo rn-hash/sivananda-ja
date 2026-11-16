@@ -26,6 +26,8 @@
 - シヴァナンダ無料公開書籍 一覧（全104冊・原典直リンク）— [HTML](./books.html)
 - DLS講話 一覧（全299編・日本語概要付き・原典直リンク）— [HTML](./discourses.html)
 
+- **カルマ・ヨーガの実践（Practice of Karma Yoga）** — Practice of Karma Yoga 日本語全訳（非商用・個人的学習用試訳・© The Divine Life Trust Society・原典=dlshq.org無料頒布・商用はDLS本部書面申請制）
+
 ## 著作権・法的位置づけ（必読）
 
 - **原典の著作権は (C) The Divine Life Trust Society に帰属します**（パブリックドメインではありません）。翻訳権も著作権に含まれます。
